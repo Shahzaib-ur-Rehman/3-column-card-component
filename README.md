@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/Shahzaib-ur-Rehman/3-column-card-component)
-- Live Site URL: [3-Column-Card-Component](https://your-live-site-url.com)
+- Live Site URL: [3-Column-Card-Component](https://3-column-card-component-teal.vercel.app/)
 
 ## My process
 
